@@ -1,0 +1,104 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:700');
+
+p { 
+
+	font-family: 'Playfair Display', Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif; 
+	
+}
+
+#brand {
+	
+	position:relative;
+	z-index: 1;
+	top: -125px;
+	background-color: transparent;
+}
+
+#brandlink, #brandlink:hover, #brandlink:active {
+	background-color: transparent;
+}
+
+
+
+.styleguide {
+	
+	padding: 20px 60px 60px 20px; 
+	vertical-align: middle; 
+	
+}
+
+.backgroundpic { 
+
+	background-color: grey;
+
+}
+
+.adjheight {
+	
+	padding: 55px 30px 30px 55px;
+}
+
+.dropshadow { 
+
+	box-shadow: 10px 10px 5px grey;
+
+}
+
+.adjsize { 
+
+	padding: 50px 10px 10px 10px;
+	display: block;
+	margin-top: 75px;
+
+}
+
+.nav {
+	
+	height: 50px;
+
+}
+
+.jumbotron { 
+
+	border-style: dotted;
+	border-color: #c8102e;
+	margin-top: 50px;
+
+
+}
+.TopBorders {
+	
+	border-top-style: dotted;
+	border-color: #c8102e;
+
+	
+}
+
+.BottomBorders {
+	
+	border-bottom-style: dotted;
+	border-color: #c8102e;
+
+	
+}
+
+.newformat { 
+
+	background-color: grey;
+	padding-bottom: 20px;
+	margin-bottom: 40px;
+} 
+
+
+.autowidth { 
+
+	width:100%;
+	height: auto;
+	margin: auto;
+
+}
+
